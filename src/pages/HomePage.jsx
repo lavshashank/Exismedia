@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Header from '../components/Header';
+import Header from '../components/header';
 import Hero from '../components/hero';
 import StarsCanvas from '../components/starCanvas';
 import CustomCursor from '../components/customCusor';
